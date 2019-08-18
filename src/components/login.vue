@@ -187,7 +187,6 @@ export default {
         }
       }
 		},
-		//notice
 
 	  //登录请求  密码  password 修改
 
