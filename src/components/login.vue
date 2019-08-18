@@ -187,15 +187,10 @@ export default {
         }
       }
 		},
+		//notice
 
-	// 	  	login(){
-  	// var _this = this;
-  	// 	if(true){
-  	// 	_this.$router.push({ name: 'UserInfo', params: { id: 2 }})
-  	// 	}
-  	// },
+	  //登录请求  密码  password 修改
 
-  	//登录请求  密码  password
   	toLogin(){
 		  var _this = this;
 		  var formData = _this.usePassword?$(".loginForm").serialize():$(".loginForm2").serialize();
