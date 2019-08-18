@@ -1,0 +1,8 @@
+{
+  "globalDevDependencies": {
+    "grunt": "registry:dt/grunt#0.4.0+20170118033846"
+  },
+  "globalDependencies": {
+    "axios": "registry:dt/axios#0.9.1+20161016142654"
+  }
+}
