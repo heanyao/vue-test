@@ -28,7 +28,7 @@
 		</div>
 		<div class="swiper-pagination pageStyle pagination3"></div>
 	</div>
-	<!-- 多个template的写法explain -->
+	<!-- =多了一个template的写法explain -->
 </template>
 
 

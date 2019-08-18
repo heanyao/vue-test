@@ -4,7 +4,7 @@
 		<headercontent v-bind:headerTitle = "headerTitle"></headercontent>
 		<div class="winPrize">
 			<ul class="nav nav-tabs">
-				<!-- 所有的JS，例如这里的切换JS写在哪个文件 -->
+				<!-- 所有的JS，例如这里的切换JS写在哪个文件，不明 -->
                 <li class="active"><a href="#">分析师登记</a></li>
                 <li><a href="#">企业登记</a></li>
 			</ul>
